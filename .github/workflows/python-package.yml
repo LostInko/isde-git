@@ -3,7 +3,7 @@
 
 name: Python package
 
-on:
+on: 
   push:
     branches: [ main, release, solution ]
   pull_request:
